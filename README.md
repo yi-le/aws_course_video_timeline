@@ -17,3 +17,15 @@ Five folders can be found in this page
 |AWS half (only contents of the lectures)|基本剪好的只有课程内容，无片头片尾的半成片|
 |Zoom recordings|桌面及清晰人声录制素材|
 |head portrait|人像录制素材|
+
+## Timeline
+
+### Lecture 1
+
+|Chapter|AWS Lecture PPTs|Zoom recordings|head portrait|
+|-------|----------------|---------------|-------------|
+|01-Intro|1|01-Intro+Demo(03:54-04:19)|02-Intro|
+|02-EC2-Demo|2|01-Intro+Demo(06:42-15:06)||
+|03-Linux-Term|4-6|02-Term-Explaination(00:34-02:58)|03-Term-Explanation(00:00-02:24)|
+|04-VPC|7-9|03-VPC(00:14-02:42)|05-VPC(00:00-02:28)|
+|05-SSH-Demo||04-SSH-Homework(00:07-02:33)|06-SSH-Demo(00:00-02:26)|
