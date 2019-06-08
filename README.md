@@ -29,3 +29,6 @@ Five folders can be found in this page
 |03-Linux-Term|4-6|02-Term-Explaination(00:34-02:58)|03-Term-Explanation(00:00-02:24)|
 |04-VPC|7-9|03-VPC(00:14-02:42)|05-VPC(00:00-02:28)|
 |05-SSH-Demo||04-SSH-Homework(00:07-02:33)|06-SSH-Demo(00:00-02:26)|
+|06-SSH|10-12|04-SSH-Homework(06:55-09:11)|08-SSH(00:00-02:16)|
+|07-Security-Group|13-14|04-SSH-Homework(10:00-12:27)|09-Security Group(00:00-02:27)|
+|08-Homework|15-17|04-SSH-Homework(13:16-13:51)|10-HW(00:00-00:35), link https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/install-LAMP.html appears on 00:15 |
