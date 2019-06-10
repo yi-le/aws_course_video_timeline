@@ -22,7 +22,7 @@ Five folders can be found in this page
 
 ### Lecture 1
 
-|Chapter|AWS Lecture PPTs|Zoom recordings|head portrait|
+|Chapter|AWS Lecture PPT Pages|Zoom recordings|head portrait|
 |-------|----------------|---------------|-------------|
 |01-Intro|1|01-Intro+Demo(03:54-04:19)|02-Intro|
 |02-EC2-Demo|2|01-Intro+Demo(06:42-15:06)||
