@@ -32,3 +32,18 @@ Five folders can be found in this page
 |06-SSH|10-12|04-SSH-Homework(06:55-09:11)|08-SSH(00:00-02:16)|
 |07-Security-Group|13-14|04-SSH-Homework(10:00-12:27)|09-Security Group(00:00-02:27)|
 |08-Homework|15-17|04-SSH-Homework(13:16-13:51)|10-HW(00:00-00:35), link https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/install-LAMP.html appears on 00:15 |
+
+### Lecture 2
+
+|Chapter|AWS Lecture PPT Pages|Zoom recordings|head portrait|
+|-------|----------------|---------------|-------------|
+|01-Intro|1-2|01-Intro(01:35-01:55)|01-Intro|
+|02-Console-Versus-YAML|3|02-Console-Versus-YAML(2:51-05:31+06:07-06:12)|02-Console-Versus-YAML(00:00-02:40+03:16-03:21)|
+|03-Demo-Ending||03-Basic-Components(00:19-00:41)+(01:29-01:35)|03-Demo-Ending(00:00-00:22)+04-Demo-Ending-2|
+|04-Basic-Components|4-5|03-Basic-Components(04:22-06:27)|05-Basic-Components(00:07-02:12)|
+|05-Basic-Components-2|6-8|04-Basic-Components-2(00:34-05:15)|06-Basic-Components-2(00:02-04:43)|
+|06-Demo-Intrinsic-Function||04-Basic-Components-2(06:42-07:45)|07-Demo-Intrinsic-Function(00:03-01:06)|
+|07-Amazon-Resource-Name|9|05-Amazon-Resource-Name(00:27-03:09)|08-Amazon-Resource-Name|
+|08-Intrinsic-Function-2|10|06-Intrinsic-Function-2(00:16-01:58)|09-Intrinsic-Function-2(00:00-01:42)|
+|09-Stack-Status|11-12|07-Stack-Status(00:11-03:24)+(04:05-04:08)+(04:37-05:01)+(05:51-07:02)|10-Stack-Status(00:02-03:15)+11-Stack-Status-2(00:03-00:06)+12-Stack-Status-3(00:01-00:25)+13-Stack-Status-4(00:00-01:11)|
+|10-Homework|13-14|07-Stack-Status(07:19-07:47)+(08:15-08:24)|14-Homework+15-Ending|
