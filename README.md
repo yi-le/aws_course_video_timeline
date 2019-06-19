@@ -47,3 +47,22 @@ Five folders can be found in this page
 |08-Intrinsic-Function-2|10|06-Intrinsic-Function-2(00:16-01:58)|09-Intrinsic-Function-2(00:00-01:42)|
 |09-Stack-Status|11-12|07-Stack-Status(00:11-03:24)+(04:05-04:08)+(04:37-05:01)+(05:51-07:02)|10-Stack-Status(00:02-03:15)+11-Stack-Status-2(00:03-00:06)+12-Stack-Status-3(00:01-00:25)+13-Stack-Status-4(00:00-01:11)|
 |10-Homework|13-14|07-Stack-Status(07:19-07:47)+(08:15-08:24)|14-Homework+15-Ending|
+
+### Lecture 3
+|Chapter|AWS Lecture PPT Pages|Zoom recordings|head portrait|
+|-------|----------------|---------------|-------------|
+|01-Intro|1|Lecture03(04:03-04:56)|01-Intro|
+|02-Cloud-Computing|2-3|Lecture03(06:10-07:36)|02-Cloud-Computing|
+|03-Load-Balancer|4-5|Lecture03(08:30-10:13)|03-Load-Balancer(00:00-01:43)|
+|04-AutoScaling|6-12|Lecture03(10:47-13:27)|04-AutoScaling(00:00-02:40)(some details need to be modified in the end)|
+|05-Advanced-AutoScaling|12-14|Lecture03(14:12-16:55)|05-Advanced-AutoScaling|
+|06-Advanced-AutoScaling-2|14-15|Lecture03(17:30-18:34)|06-Advanced-AutoScaling-2|
+|07-Demo||Lecture03(20:26-22:04)|07-Demo(00:05-01:43)link https://github.com/overtureLLC/aws_course/blob/master/course3_demo_1.yaml appears on 00:10|
+|08-Target-Group|15-20|Lecture03(23:28-26:41)|08-Target-Group(00:00-03:13)|
+|09-CloudWatch|20-22|Lecture03(27:22-28:22)|09-CloudWatch(00:00-01:00)|
+|10-CloudWatch-2|22|Lecture03(29:31-30:35)|10-CloudWatch-2(00:00-01:04)|
+|11-Demo-2||Lecture03(31:03-32:15)|11-Demo-2(00:00-01:12)|
+|12-Alarm|23-24|Lecture03(32:50-34:06)|12-Alarm(00:00-01:16)|
+|13-CloudTrail|25-27|Lecture03(37:28-38:51)|13-CloudTrail(00:00-01:23)|
+
+
