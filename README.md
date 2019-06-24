@@ -65,4 +65,19 @@ Five folders can be found in this page
 |12-Alarm|23-24|Lecture03(32:50-34:06)|12-Alarm(00:00-01:16)|
 |13-CloudTrail|25-27|Lecture03(37:28-38:51)|13-CloudTrail(00:00-01:23)|
 
-
+### Lecture 4
+|Chapter|AWS Lecture PPT Pages|Zoom recordings|head portrait|
+|-------|----------------|---------------|-------------|
+|01-Intro|1-4|Lecture04(00:28-02:55)|01-Intro(00:00-02:27)|
+|02-Demo| |Lecture04(04:13-05:18)| |
+|03-AWS-CLI|4-7|Lecture04(05:31-07:55)| |
+|04-Demo-2| |Lecture04(09:57-11:47)|04-Demo-2|
+|05-AWS-Credentials|7|Lecture04(12:11-12:41)|05-AWS-Credentials(00:03-00:33)|
+|06-Demo-3| |Lecture04(13:00-13:53)|06-Demo-3(00:00-00:53)|
+|07-Authentication-Chain|7-9|Lecture04(14:08-18:08)|07-Authentication-Chain(00:02-04:02)|
+|08-AWS-SDK|10-13|Lecture04(18:32-21:14)|08-AWS-SDK(00:02-02:44)|
+|09-Demo-4| |Lecture04(21:40-22:32)|09-Demo-4(00:03-00:55)|
+|10-IAM|14|Lecture04(22:51-23:21)|10-IAM(00:00-00:30|
+|11-IAM-2|15-16|Lecture04(23:52-24:22)|11-IAM-2(00:00-00:30)|
+|12-Demo-5| |Lecture04(24:48-27:44)|12-Demo-5(00:02-02:58)(some details need to be modified in the end)|
+|13-IAM-3|17-20|Lecture04(28:05-31:06)|13-IAM-3(00:02-03:03)|
