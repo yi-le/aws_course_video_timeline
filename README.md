@@ -81,3 +81,14 @@ Five folders can be found in this page
 |11-IAM-2|15-16|Lecture04(23:52-24:22)|11-IAM-2(00:00-00:30)|
 |12-Demo-5| |Lecture04(24:48-27:44)|12-Demo-5(00:02-02:58)(some details need to be modified in the end)|
 |13-IAM-3|17-20|Lecture04(28:05-31:06)|13-IAM-3(00:02-03:03)|
+
+### Lecture 5
+|Chapter|AWS Lecture PPT Pages|Zoom recordings|head portrait|
+|-------|----------------|---------------|-------------|
+|01-Intro|1-2|Lecture04(00:34-03:16)|01-Intro(00:01-02:43)|
+|02-Demo|3-5|Lecture04(03:56-08:31)|02-Demo(00:01-04:36)|
+|03-Storage-Class|6-10|Lecture04(10:00-13:38)|03-Storage-Class(00:02-03:40)|
+|04-Storage-Safety|11-13|Lecture04(14:50-19:19)|04-Storage-Safety(00:01-04:30)|
+|05-Demo-2| |Lecture04(20:07-21:05)|05-Demo-2(00:02-1:00)|
+|06-S3-CLI|14-19|Lecture04(21:43-28:58)|06-S3-CLI(00:04-07:19)|
+|07-Homework|20-21|Lecture04(29:46-28:32)|07-Homework(00:01-00:47)|
