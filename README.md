@@ -85,10 +85,21 @@ Five folders can be found in this page
 ### Lecture 5
 |Chapter|AWS Lecture PPT Pages|Zoom recordings|head portrait|
 |-------|----------------|---------------|-------------|
-|01-Intro|1-2|Lecture04(00:34-03:16)|01-Intro(00:01-02:43)|
-|02-Demo|3-5|Lecture04(03:56-08:31)|02-Demo(00:01-04:36)|
-|03-Storage-Class|6-10|Lecture04(10:00-13:38)|03-Storage-Class(00:02-03:40)|
-|04-Storage-Safety|11-13|Lecture04(14:50-19:19)|04-Storage-Safety(00:01-04:30)|
-|05-Demo-2| |Lecture04(20:07-21:05)|05-Demo-2(00:02-1:00)|
-|06-S3-CLI|14-19|Lecture04(21:43-28:58)|06-S3-CLI(00:04-07:19)|
-|07-Homework|20-21|Lecture04(29:46-28:32)|07-Homework(00:01-00:47)|
+|01-Intro|1-2|Lecture05(00:34-03:16)|01-Intro(00:01-02:43)|
+|02-Demo|3-5|Lecture05(03:56-08:31)|02-Demo(00:01-04:36)|
+|03-Storage-Class|6-10|Lecture05(10:00-13:38)|03-Storage-Class(00:02-03:40)|
+|04-Storage-Safety|11-13|Lecture05(14:50-19:19)|04-Storage-Safety(00:01-04:30)|
+|05-Demo-2| |Lecture05(20:07-21:05)|05-Demo-2(00:02-1:00)|
+|06-S3-CLI|14-19|Lecture05(21:43-28:58)|06-S3-CLI(00:04-07:19)|
+|07-Homework|20-21|Lecture05(29:46-28:32)|07-Homework(00:01-00:47)|
+
+### Lecture 6
+|Chapter|AWS Lecture PPT Pages|Zoom recordings|head portrait|
+|-------|----------------|---------------|-------------|
+|01-Intro|1-4|Lecture06(08:15-11:26)|01-Intro(00:01-03:12)|
+|02-RDS|5-6+8-9|Lecture06(13:54-18:32)|02-RDS(00:02-04:40)|
+|03-RDS-2|7|Lecture06(47:41-50:33)|03-RDS-2(00:11-03:03)|
+|04-DynamoDB|10-14|Lecture06(19:40-25:30+30:00-30:05)|04-DynamoDB(00:02-05:52)+05-DynamoDB-2(00:05-00:10)|
+|05-Cache|20-22|Lecture07(30:49-33:06)|06-Cache(00:00-03:17)|
+|06-DAX|23|Lecture07(38:33-39:50)|07-DAX(00:06-01:23)|
+|07-Homework|24-25|Lecture07(44:49-45:23)|08-Homework(00:02-00:36)|
