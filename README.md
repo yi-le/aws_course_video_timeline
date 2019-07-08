@@ -112,3 +112,13 @@ Five folders can be found in this page
 |03-Monitoring|13|Lecture06(23:42-24:35)|03-Monitoring(00:05-00:58)|
 |04-SQS|14-16|Lecture06(26:00-29:52)|04-SQS(00:02-02:55) potrait recording is shorter than screen recording|
 |05-SQS-2|17-21|Lecture06(44:08-48:58)|05-SQS-2(00:02-04:52)|
+
+### Lecture 8
+|Chapter|AWS Lecture PPT Pages|Zoom recordings|head portrait|
+|-------|----------------|---------------|-------------|
+|01-Intro|1-2|Lecture07(00:27-02:49)|01-Intro(00:03-02:25)|
+|02-Serverless-Case|3|Lecture07(04:19-06:03)|02-Serverless-Case(00:01-01:45)|
+|03-Lambda|4-11|Lecture07(12:04-21:02)|03-Lambda(00:02-09:00)|
+|04-API-Gateway|12-14|Lecture07(22:28-25:14)|04-API-Gateway(00:02-02:48)|
+|05-Demo||Lecture07(32:34-35:09)|05-Demo(00:08-02:43)|
+|06-Conclusion|15-18|Lecture07(36:25-39:17)|06-Conclusion(00:03-02:55)|
