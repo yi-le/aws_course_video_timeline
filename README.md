@@ -103,3 +103,12 @@ Five folders can be found in this page
 |05-Cache|20-22|Lecture06(30:49-33:06)|06-Cache(00:00-03:17)|
 |06-DAX|23|Lecture06(38:33-39:50)|07-DAX(00:06-01:23)|
 |07-Homework|24-25|Lecture06(44:49-45:23)|08-Homework(00:02-00:36)|
+
+### Lecture 7
+|Chapter|AWS Lecture PPT Pages|Zoom recordings|head portrait|
+|-------|----------------|---------------|-------------|
+|01-Intro|1-6|Lecture06(02:57-08:06)|01-Intro(00:06-05:15)|
+|02-Deployment-Strategy|7-12|Lecture06(11:46-21:43)|02-Deployment-Strategy(00:09-10:06)|
+|03-Monitoring|13|Lecture06(23:42-24:35)|03-Monitoring(00:05-00:58)|
+|04-SQS|14-16|Lecture06(26:00-29:52)|04-SQS(00:02-02:55) potrait recording is shorter than screen recording|
+|05-SQS-2|17-21|Lecture06(44:08-48:58)|05-SQS-2(00:02-04:52)|
