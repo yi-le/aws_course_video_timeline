@@ -107,18 +107,31 @@ Five folders can be found in this page
 ### Lecture 7
 |Chapter|AWS Lecture PPT Pages|Zoom recordings|head portrait|
 |-------|----------------|---------------|-------------|
-|01-Intro|1-6|Lecture06(02:57-08:06)|01-Intro(00:06-05:15)|
-|02-Deployment-Strategy|7-12|Lecture06(11:46-21:43)|02-Deployment-Strategy(00:09-10:06)|
-|03-Monitoring|13|Lecture06(23:42-24:35)|03-Monitoring(00:05-00:58)|
-|04-SQS|14-16|Lecture06(26:00-29:52)|04-SQS(00:02-02:55) potrait recording is shorter than screen recording|
-|05-SQS-2|17-21|Lecture06(44:08-48:58)|05-SQS-2(00:02-04:52)|
+|01-Intro|1-6|Lecture07(02:57-08:06)|01-Intro(00:06-05:15)|
+|02-Deployment-Strategy|7-12|Lecture07(11:46-21:43)|02-Deployment-Strategy(00:09-10:06)|
+|03-Monitoring|13|Lecture07(23:42-24:35)|03-Monitoring(00:05-00:58)|
+|04-SQS|14-16|Lecture07(26:00-29:52)|04-SQS(00:02-02:55) potrait recording is shorter than screen recording|
+|05-SQS-2|17-21|Lecture07(44:08-48:58)|05-SQS-2(00:02-04:52)|
 
 ### Lecture 8
 |Chapter|AWS Lecture PPT Pages|Zoom recordings|head portrait|
 |-------|----------------|---------------|-------------|
-|01-Intro|1-2|Lecture07(00:27-02:49)|01-Intro(00:03-02:25)|
-|02-Serverless-Case|3|Lecture07(04:19-06:03)|02-Serverless-Case(00:01-01:45)|
-|03-Lambda|4-11|Lecture07(12:04-21:02)|03-Lambda(00:02-09:00)|
-|04-API-Gateway|12-14|Lecture07(22:28-25:14)|04-API-Gateway(00:02-02:48)|
-|05-Demo||Lecture07(32:34-35:09)|05-Demo(00:08-02:43)|
-|06-Conclusion|15-18|Lecture07(36:25-39:17)|06-Conclusion(00:03-02:55)|
+|01-Intro|1-2|Lecture08(00:27-02:49)|01-Intro(00:03-02:25)|
+|02-Serverless-Case|3|Lecture08(04:19-06:03)|02-Serverless-Case(00:01-01:45)|
+|03-Lambda|4-11|Lecture08(12:04-21:02)|03-Lambda(00:02-09:00)|
+|04-API-Gateway|12-14|Lecture08(22:28-25:14)|04-API-Gateway(00:02-02:48)|
+|05-Demo||Lecture08(32:34-35:09)|05-Demo(00:08-02:43)|
+|06-Conclusion|15-18|Lecture08(36:25-39:17)|06-Conclusion(00:03-02:55)|
+
+### Lecture 9
+|Chapter|AWS Lecture PPT Pages|Zoom recordings|head portrait|
+|-------|----------------|---------------|-------------|
+|01-Intro|1-2|Lecture09(00:11-01:32)|01-Intro(00:02-01:23)|
+|02-Cognito|3-4|Lecture09(02:01-03:01)|02-Cognito(00:02-01:02)|
+|03-Cognito-2|5-6|Lecture09(04:15-08:09)|03-Cognito-2(00:00-03:54)|
+|04-Demo||Lecture09(11:20-17:35)|Show link https://github.com/overtureLLC/AWS_Lab_ApiGateway_Cognito_Lambda at beginning|
+|05-Demo-Explaination|7|Lecture09(24:00-24:57)|04-Demo-Explaination(00:03-1:00)|
+|06-STS|8-13|Lecture09(25:57-34:00)|05-STS(00:03-08:06)|
+|07-KMS|14-15|Lecture09(37:30-39:10)|06-KMS(00:04-01:44)|
+|08-SSM|16-17|Lecture09(41:24-43:50)|07-SSM(00:02-02:28)|
+|09-SNS|18-22|Lecture09(45:59-48:45)|08-SNS(00:04-02:50)|
