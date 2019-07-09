@@ -135,3 +135,13 @@ Five folders can be found in this page
 |07-KMS|14-15|Lecture09(37:30-39:10)|06-KMS(00:04-01:44)|
 |08-SSM|16-17|Lecture09(41:24-43:50)|07-SSM(00:02-02:28)|
 |09-SNS|18-22|Lecture09(45:59-48:45)|08-SNS(00:04-02:50)|
+
+### Lecture 10
+|Chapter|AWS Lecture PPT Pages|Zoom recordings|head portrait|
+|-------|----------------|---------------|-------------|
+|01-ECS|1-8|Lecture10(00:23-09:05)|01-ECS(00:01-08:43)|
+|02-Content-Delivery|9-10|Lecture10(10:01-11:45)|02-Content-Delivery(00:02-01:46)|
+|03-Demo||Lecture10(14:09-20:00)||
+|04-CloudFront|12|Lecture10(22:07-24:01)|04-CloudFront(00:01-01:55)|
+|05-Route53|13-16|Lecture10(24:58-27:53)|05-Route53(00:04-02:59)|
+|06-OpsWorks|17-22|Lecture10(28:32-34:23)|06-OpsWorks(00:01-05:52)|
