@@ -145,3 +145,17 @@ Five folders can be found in this page
 |04-CloudFront|12|Lecture10(22:07-24:01)|04-CloudFront(00:01-01:55)|
 |05-Route53|13-16|Lecture10(24:58-27:53)|05-Route53(00:04-02:59)|
 |06-OpsWorks|17-22|Lecture10(28:32-34:23)|06-OpsWorks(00:01-05:52)|
+
+### Lecture 11
+|Chapter|AWS Lecture PPT Pages|Zoom recordings|head portrait|
+|-------|----------------|---------------|-------------|
+|01-Cloud9|1-3|Lecture11(00:28-02:45)|01-Cloud9(00:03-02:20)|
+|02-CodeBuild|4-7|Lecture11(04:00-09:06)|02-CodeBuild(00:02-05:08)|
+|03-CodeDeploy|8-11|Lecture11(21:39-25:20)|03-CodeDeploy(00:02-03:43)|
+|04-CICD|12-14|Lecture11(26:36-29:35)|04-CICD(00:01-03:00)|
+|05-CICD-2|15-18|Lecture11(34:17-39:10)|05-CICD-2(00:01-4:54)|
+|06-CICD-3|19|Lecture11(46:54-49:46)|06-CICD-3(00:05-02:57)|
+|07-CodeStar|20-22|Lecture11(54:16-55:44)|07-CodeStar(00:01-01:29)|
+|08-Demo||Lecture11(56:00-59:18)+(60:57-62:26)|07-CodeStar(01:45-05:03)+(06:42-08:11)|
+|09-Homework|23-24|Lecture11(68:00-68:37)|08-Homework(00:01-00:38)|
+|10-Ending||Lecture11(69:58-70:32)|09-Ending(00:01-00:35)|
