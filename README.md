@@ -20,6 +20,16 @@ Five folders can be found in this page
 
 ## Timeline
 
+### Introduction
+
+|Chapter|AWS Lecture PPT Pages|Zoom recordings|head portrait|
+|-------|----------------|---------------|-------------|
+|01-Intro-ASCENDING|||01-Intro-ASCENDING+02-Intro-ASCENDING-2|
+|02-Intro-Ryo|||03-Intro-Ryo|
+|03-Intro-Gloria&Yi|||04-Intro-Gloria&Yi|
+|04-Intro-AWS-Certification||01-Intro-AWS-Certification(00:12-02:12)|05-Intro-AWS-Certification(00:00-02:00)|
+|05-Intro-Course|||06-Intro-Course(00:00-01:34)+(01:46-01:49)|
+
 ### Lecture 1
 
 |Chapter|AWS Lecture PPT Pages|Zoom recordings|head portrait|
