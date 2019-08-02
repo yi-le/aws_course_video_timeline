@@ -110,7 +110,7 @@ Five folders can be found in this page
 |02-RDS|5-6+8-9|Lecture06(13:54-18:32)|02-RDS(00:02-04:40)|
 |03-RDS-2|7|Lecture06(47:41-50:33)|03-RDS-2(00:11-03:03)|
 |04-DynamoDB|10-14|Lecture06(19:40-25:30+30:00-30:05)|04-DynamoDB(00:02-05:52)+05-DynamoDB-2(00:05-00:10)|
-|05-Cache|20-22|Lecture06(30:49-33:06)|06-Cache(00:00-03:17)|
+|05-Cache|20-22|Lecture06(30:49-34:06)|06-Cache(00:00-03:17)|
 |06-DAX|23|Lecture06(38:33-39:50)|07-DAX(00:06-01:23)|
 |07-Homework|24-25|Lecture06(44:49-45:23)|08-Homework(00:02-00:36)|
 
