@@ -1,5 +1,18 @@
 # aws_course_video_timeline
 
+## Extra Cut
+
+Please acquire subtitled video from 字幕版视频 folder
+
+|Chapter|timestamp|
+|-------|---------|
+|3-13|1:06|
+|4-13|2:24|
+|7-5|4:19|
+|8-6|2:24|
+|9-9|2:30|
+|10-6|5:22|
+
 ## Acquire Raw Video
 
 Click [this link](https://s3.console.aws.amazon.com/s3/buckets/ascending-aws-association-raw/?region=us-east-1&tab=overview#)
